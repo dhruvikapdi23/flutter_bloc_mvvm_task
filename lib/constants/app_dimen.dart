@@ -1,0 +1,117 @@
+
+
+import 'package:flutter/cupertino.dart';
+
+class AppDimens {
+
+  static double get dimen2 => 2;
+  static double get dimen3 => 3;
+  static double get dimen4 => 4;
+  static double get dimen5 => 5;
+  static double get dimen6 => 6;
+  static double get dimen8 => 8;
+  static double get dimen9 => 9;
+  static double get dimen10 => 10;
+  static double get dimen12 => 12;
+  static double get dimen14 => 14;
+  static double get dimen15 => 15;
+  static double get dimen16 => 16;
+  static double get dimen18 => 18;
+  static double get dimen20 => 20;
+  static double get dimen30 => 30;
+  static double get dimen21 => 21;
+  static double get dimen22 => 22;
+  static double get dimen24 => 24;
+  static double get dimen26 => 26;
+  static double get dimen28 => 28;
+  static double get dimen32 => 32;
+  static double get dimen33 => 33;
+  static double get dimen35 => 35;
+  static double get dimen36 => 36;
+  static double get dimen38 => 38;
+  static double get dimen40 => 40;
+  static double get dimen42 => 42;
+  static double get dimen45 => 45;
+  static double get dimen48 => 48;
+  static double get dimen50 => 50;
+  static double get dimen53 => 53;
+  static double get dimen55 => 55;
+  static double get dimen60 => 60;
+  static double get dimen65 => 65;
+  static double get dimen70 => 70;
+  static double get dimen74 => 74;
+  static double get dimen75 => 75;
+  static double get dimen80 => 80;
+  static double get dimen90 => 90;
+  static double get dimen100 => 100;
+  static double get dimen110 => 110;
+  static double get dimen150 => 150;
+  static double get dimen200 => 200;
+  static double get dimen210 => 210;
+  static double get dimen220 => 220;
+  static double get dimen230 => 230;
+  static double get dimen250 => 250;
+  static double get dimen260 => 260;
+  static double get dimen270 => 270;
+  static double get dimen280 => 280;
+  static double get dimen300 => 300;
+  static double get dimen310 => 310;
+  static double get dimen350 => 350;
+  static double get dimen400 => 400;
+  static double get dimen120 => 120;
+  static double get dimen130 => 130;
+  static double get dimen140 => 140;
+  static double get dimen160 => 160;
+  static double get dimen180 => 180;
+  static double get dimen190 => 190;
+  static double get dimen454 => 454;
+
+  static double get dimenW08 => 8;
+  static double get dimenW10 => 10;
+  static double get dimenW12 => 12;
+  static double get dimenW18 => 18;
+  static double get dimenW20 => 20;
+  static double get dimenW22 => 22;
+  static double get dimenW24 => 24;
+  static double get dimenW30 => 30;
+  static double get dimenW34 => 34;
+  static double get dimenW36 => 36;
+  static double get dimenW37 => 37;
+  static double get dimenW40 => 40;
+  static double get dimenW50 => 50;
+  static double get dimenW60 => 60;
+  static double get dimenW70 => 70;
+  static double get dimenW80 => 80;
+  static double get dimenW90 => 90;
+  static double get dimenW100 => 100;
+  static double get dimenW120 => 120;
+  static double get dimenW160 => 160;
+  static double get dimenW200 => 200;
+}
+
+class FontDimen {
+  static double get textScaleFactor => 1;
+  static double get dimen2 => textScaleFactor * 2;
+  static double get dimen4 => textScaleFactor * 4;
+  static double get dimen6 => textScaleFactor * 6;
+  static double get dimen8 => textScaleFactor * 8;
+  static double get dimen10 => textScaleFactor * 10;
+  static double get dimen11 => textScaleFactor * 11;
+  static double get dimen12 => textScaleFactor * 12;
+  static double get dimen13 => textScaleFactor * 13;
+  static double get dimen14 => textScaleFactor * 14;
+  static double get dimen15 => textScaleFactor * 15;
+  static double get dimen16 => textScaleFactor * 16;
+  static double get dimen18 => textScaleFactor * 18;
+  static double get dimen20 => textScaleFactor * 20;
+  static double get dimen22 => textScaleFactor * 22;
+  static double get dimen24 => textScaleFactor * 24;
+  static double get dimen25 => textScaleFactor * 25;
+  static double get dimen28 => textScaleFactor * 28;
+  static double get dimen30 => textScaleFactor * 30;
+  static double get dimen32 => textScaleFactor * 32;
+  static double get dimen34 => textScaleFactor * 34;
+  static double get dimen38 => textScaleFactor * 38;
+  static double get dimen40 => textScaleFactor * 40;
+  static double get dimen75 => textScaleFactor * 75;
+}
