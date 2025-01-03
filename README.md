@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## How to run?
+- Clone the project dhruvi_todo_task from github
+- Now open the project 
+- Go to pubspec.yaml and click 'pub get' or run command 'flutter pub get' in terminal console
+- Now run the app
