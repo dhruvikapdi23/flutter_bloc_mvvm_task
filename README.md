@@ -16,7 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## How to run?
-- Clone the project dhruvi_todo_task from github
+- Clone the project flutter_bloc_mvvm_task from github
 - Now open the project 
 - Go to pubspec.yaml and click 'pub get' or run command 'flutter pub get' in terminal console
 - Now run the app
+- If any version issue coming then try to upgrade flutter version to 3.27
